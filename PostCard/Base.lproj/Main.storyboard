@@ -85,6 +85,7 @@
                     <connections>
                         <outlet property="enterMessageTextField" destination="02O-fV-2O6" id="xdB-bX-6QB"/>
                         <outlet property="enterNameTextField" destination="6Ta-Nf-aSz" id="O70-eD-REB"/>
+                        <outlet property="mailButton" destination="0Oi-TD-L5e" id="vMX-7R-KOu"/>
                         <outlet property="messageLabel" destination="T6k-uK-Nh8" id="xYy-Js-4HE"/>
                     </connections>
                 </viewController>
